@@ -95,12 +95,13 @@ Collection of SQL interview questions and solutions.
 ✔ Open Source Learning
 
 ---
+📫 Connect With Me
 
-## 📫 Connect With Me
+📧 Email: zehenkhan852@gmail.com
 
-- GitHub: https://github.com/iamkhan979
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your Email
+💼 LinkedIn: https://www.linkedin.com/in/sameer-khan-04a549331
+
+🐙 GitHub: https://github.com/iamkhan979
 
 ---
 
